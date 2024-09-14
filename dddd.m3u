@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/wxQJXS79/FINAL-LOGO1.jpg" group-title="WEBTV", JAMUNA TV SD
 http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/wxQJXS79/FINAL-LOGO1.jpg" group-title="WEBTV", JAMUNA TV HD
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@JamunaTVbd
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/wxQJXS79/FINAL-LOGO1.jpg" group-title="WEBTV", CHANNEL 24 (BD)
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@channel24digital
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/wxQJXS79/FINAL-LOGO1.jpg" group-title="WEBTV", CHANNEL 24 HD
 http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/wxQJXS79/FINAL-LOGO1.jpg" group-title="WEBTV", SATV
@@ -33,14 +29,8 @@ http://livess.ncare.live/live-orgin/atnws-sg.stream/playlist.m3u8
 http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/wxQJXS79/FINAL-LOGO1.jpg" group-title="WEBTV", DEEPTO TV SD
 http://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/wxQJXS79/FINAL-LOGO1.jpg" group-title="WEBTV", NEWS 24
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@news24television90
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/wxQJXS79/FINAL-LOGO1.jpg" group-title="WEBTV", INDEPENDENT TV SD
 http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/wxQJXS79/FINAL-LOGO1.jpg" group-title="WEBTV", DBC NEWS
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@dbcnewstv
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/wxQJXS79/FINAL-LOGO1.jpg" group-title="WEBTV", EKHON TV
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@ekhontv
 #http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/wxQJXS79/FINAL-LOGO1.jpg" group-title="WEBTV", SOMOY TV SD
 http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
