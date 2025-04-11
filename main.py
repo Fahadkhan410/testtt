@@ -81,7 +81,7 @@ def universal_playlist_converter(output_file_name,json_data):
         link=channel["stream_link"]
         
         logo=channel["logo"]
-        category_name ="Byte Capsule"
+        category_name ="ASFA📺IPTV (JADOO)"
         text += f"\n#EXTINF:-1 tvg-name=\"{name}\" tvg-logo=\"{logo}\" tvg-id=\"{id}\" group-title=\"{category_name}\",{name}"
         text += f"\n{link}"
     with open(output_file_name,"w") as w:
