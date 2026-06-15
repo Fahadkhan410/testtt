@@ -3,7 +3,7 @@ import json
 
 # The source URL you provided
 SOURCE_URL = "https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/live_sports.json"
-OUTPUT_FILE = "jadoo_playlist.m3u"
+OUTPUT_FILE = "live_sports.m3u"
 
 def main():
     try:
