@@ -9,13 +9,11 @@ on:
 jobs:
   update-list:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    permissions:         # <--- MAKE SURE THIS IS PRESENT
+      contents: write    # <--- MAKE SURE THIS IS PRESENT
     steps:
-    # CHANGED: Upgraded from @v4 to @v6 for Node 24 support
     - name: Checkout Repository
-      uses: actions/checkout@v6
-
+...
     # CHANGED: Upgraded from @v5 to @v6 for Node 24 support
     - name: Set up Python
       uses: actions/setup-python@v6
