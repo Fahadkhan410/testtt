@@ -5,7 +5,6 @@ SOURCE_URL = "https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/
 OUTPUT_FILE = "live_sports.m3u"
 
 def main():
-    # Base fallback initialization
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as m3u:
         m3u.write("#EXTM3U\n\n")
 
@@ -36,12 +35,12 @@ def main():
                         if url:
                             name = f"{title} [Server {server}]" if server else title
                             
-                            # Append custom Referer and User-Agent headers to bypass security
-                            # This tells ZalTV to spoof the required web host
-                            protected_url = f"{url}|Referer={referer}&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-                            
-                            m3u.write(f'#EXTINF:-1 group-title="{group}",{name}\n{protected_url}\n\n')
-            print("Playlist generated successfully with security bypass strings added.")
+                            # Standard multi-line options framework for IPTV players
+                            m3u.write(f'#EXTINF:-1 group-title="{group}",{name}\n')
+                            m3u.write(f'#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)\n')
+                            m3u.write(f'#EXTVLCOPT:http-referrer={referer}\n')
+                            m3u.write(f"{url}\n\n")
+            print("Playlist generated using standard EXTVLCOPT headers configuration.")
     except Exception as e:
         print(f"Execution failed: {e}")
 
