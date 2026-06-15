@@ -1,30 +1,29 @@
-name: Auto-Update M3U Playlist
+name: Update Playlist
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
+    - cron: '0 */6 * * *' # Runs automatically every 6 hours
+  workflow_dispatch: # Allows you to press the button to run manually
 
 jobs:
-  update-list:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v6
 
-      - name: Set up Python
-        uses: actions/setup-python@v6
+    steps:
+      - name: Checkout Repository Code
+        uses: actions/checkout@v4
+
+      - name: Setup Python Environment
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
-      - name: Run Converter Script
+      - name: Run Script Extraction
         run: python convert.py
 
       - name: Commit and Push Changes
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "actions@github.com"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git add live_sports.m3u
-          git diff-index --quiet HEAD || (git commit -m "Auto-update playlist" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated playlist update" && git push)
