@@ -29,5 +29,5 @@ jobs:
       run: |
         git config --global user.name "GitHub Action"
         git config --global user.email "actions@github.com"
-        git add jadoo_playlist.m3u
+        git add live_sports.m3u
         git diff-index --quiet HEAD || (git commit -m "Auto-update playlist" && git push)
