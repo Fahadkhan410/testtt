@@ -6,65 +6,63 @@ SOURCE_URL = "https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/
 OUTPUT_FILE = "live_sports.m3u"
 
 def main():
+    print("--- START DIAGNOSTIC TEST ---")
     try:
-        # 1. Fetch JSON data with a realistic User-Agent header
+        # Fetch the raw text from the source URL
         req = urllib.request.Request(
             SOURCE_URL, 
-            headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
+            headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
         )
         with urllib.request.urlopen(req) as response:
             raw_data = response.read().decode('utf-8')
-            data = json.loads(raw_data)
         
-        # 2. Extract the actual list of channels dynamically
-        channels = []
+        print("1. Successfully connected to source URL.")
+        print(f"2. Raw text length received: {len(raw_data)} characters.")
+        
+        # Print the first 500 characters of the file into your logs
+        print("3. Sneak peek of the first 500 characters:")
+        print("=========================================")
+        print(raw_data[:500])
+        print("=========================================")
+
+        # Parse JSON
+        data = json.loads(raw_data)
+        print("4. JSON parsed successfully.")
+        
         if isinstance(data, list):
-            channels = data
+            print(f"5. JSON is a LIST containing {len(data)} items.")
+            if len(data) > 0:
+                print(f"Sample first item keys: {list(data[0].keys()) if isinstance(data[0], dict) else type(data[0])}")
         elif isinstance(data, dict):
-            # If the JSON is an object, look inside common keys like 'channels', 'streams', or 'live'
+            print(f"5. JSON is a DICTIONARY with root keys: {list(data.keys())}")
+        else:
+            print(f"5. JSON is a strange type: {type(data)}")
+
+        # Keep your previous fallback loop active to try and write what it can
+        channels = data if isinstance(data, list) else []
+        if isinstance(data, dict):
             for key in ['channels', 'streams', 'live', 'data', 'matches']:
                 if key in data and isinstance(data[key], list):
                     channels = data[key]
                     break
-            # Fallback: if no list key is found, check if the dictionary values contain a list
-            if not channels:
-                for val in data.values():
-                    if isinstance(val, list):
-                        channels = val
-                        break
-
-        if not channels:
-            print("Error: Could not locate a valid list of items in the JSON structure.")
-            print(f"Sample data structure received: {str(data)[:200]}")
-            sys.exit(1)
-
-        # 3. Write data to M3U format
+        
         with open(OUTPUT_FILE, 'w', encoding='utf-8') as m3u:
             m3u.write("#EXTM3U\n\n")
-            
             counter = 0
             for item in channels:
-                if not isinstance(item, dict):
-                    continue
-                
-                # Check for flexible naming variations inside the JSON fields
-                name = item.get("name") or item.get("title") or item.get("channel_name") or f"Channel {counter+1}"
-                url = item.get("url") or item.get("link") or item.get("stream")
-                logo = item.get("logo") or item.get("logo_url") or item.get("tvg-logo") or ""
-                group = item.get("group") or item.get("category") or item.get("group-title") or "Sports"
+                if isinstance(item, dict):
+                    name = item.get("name") or item.get("title") or f"Channel {counter+1}"
+                    url = item.get("url") or item.get("link")
+                    if url:
+                        m3u.write(f'#EXTINF:-1 group-title="Sports",{name}\n{url}\n\n')
+                        counter += 1
+                        
+        print(f"--- END TEST: Written {counter} channels ---")
+        if counter == 0:
+            sys.exit("Forcing failure because 0 channels were generated. Check logs above!")
 
-                if not url:
-                    continue
-
-                metadata = f'#EXTINF:-1 tvg-logo="{logo}" group-title="{group}",{name}'
-                m3u.write(f"{metadata}\n")
-                m3u.write(f"{url}\n\n")
-                counter += 1
-                
-        print(f"M3U Playlist updated successfully. Compiled {counter} channels.")
-        
     except Exception as e:
-        print(f"Error during conversion execution: {e}")
+        print(f"CRITICAL ERROR: {e}")
         sys.exit(1)
 
 if __name__ == "__main__":
