@@ -2,7 +2,7 @@ name: Auto-Update M3U Playlist
 
 on:
   schedule:
-    # This runs the script automatically every 1 hours
+    # This runs the script automatically every 6 hours
     - cron: '0 */6 * * *'
   workflow_dispatch: # Allows you to also run it manually anytime
 
@@ -12,11 +12,13 @@ jobs:
     permissions:
       contents: write
     steps:
+    # CHANGED: Upgraded from @v4 to @v6 for Node 24 support
     - name: Checkout Repository
-      uses: actions/checkout@v4
+      uses: actions/checkout@v6
 
+    # CHANGED: Upgraded from @v5 to @v6 for Node 24 support
     - name: Set up Python
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v6
       with:
         python-version: '3.x'
 
