@@ -1,23 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Tennis",Day 2: Berlin Open [Server 143070]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1781705734-Kv4cPTAAP5YTi-cac12ecc9478143b53f0e5857f7d39533516698d-550e88ece517f87da789766804785445
-
-#EXTINF:-1 group-title="Tennis",Day 2: Berlin Open [Server 143070]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=cac12ecc9478143b53f0e5857f7d39533516698d&x-sign=91d74ae223f973c49c961af05e2d7367&x-time=1781619300
-
-#EXTINF:-1 group-title="Other",Prague - Day 1 [Server 8]
-https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1781705739-Kv4cPTAAP5YTi-cac12ecc9478143b53f0e5857f7d39533516698d-c01d559f3b057e05198e8f0cc7424fa3
-
-#EXTINF:-1 group-title="Other",Prague - Day 1 [Server 8]
-https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=cac12ecc9478143b53f0e5857f7d39533516698d&x-sign=fcb114512ef4c7175b2c1786d3eb614e&x-time=1781619300
-
-#EXTINF:-1 group-title="Tennis",ANDY MURRAY ARENA [Server 20]
-https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1781705745-Kv4cPTAAP5YTi-cac12ecc9478143b53f0e5857f7d39533516698d-d2232c654e5bebf64f7c65c713839635
-
-#EXTINF:-1 group-title="Tennis",ANDY MURRAY ARENA [Server 20]
-https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=cac12ecc9478143b53f0e5857f7d39533516698d&x-sign=6815b4fbc2a6ea70a11801a11f1f65b9&x-time=1781619300
-
 #EXTINF:-1 group-title="Darts",2026 Players Championship 21 [Server 114414]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=cac12ecc9478143b53f0e5857f7d39533516698d&x-sign=50e7febe5328a8a12290d2481925aabe&x-time=1781619300
+https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=8b4449dba004e1419f27888a543fc6f2b2c4206c&x-sign=30c9f8e1e5012041004dcb98fb1581b5&x-time=1781635500
+
+#EXTINF:-1 group-title="Football",France vs Senegal [Server 177]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=8b4449dba004e1419f27888a543fc6f2b2c4206c&x-sign=a422073a1dcab043b66d7d887b324b86&x-time=1781635500
+
+#EXTINF:-1 group-title="Football",France vs Senegal [Server 177]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1781721942-Kv4cPTAAP5YTi-8b4449dba004e1419f27888a543fc6f2b2c4206c-21c097470e7c78b8f807045ce3c7b043
+
+#EXTINF:-1 group-title="Football",France vs Senegal [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=8b4449dba004e1419f27888a543fc6f2b2c4206c&x-sign=512c8d8cce9a55e1650cf6b6ce2887c8&x-time=1781635500
+
+#EXTINF:-1 group-title="Football",France vs Senegal [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781721943-Kv4cPTAAP5YTi-8b4449dba004e1419f27888a543fc6f2b2c4206c-245879b87c95109024c2b7b78166d414
 
