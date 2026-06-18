@@ -1,32 +1,53 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Badminton",Court 1 [Server 20]
-https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1781862333-Kv4cPTAAP5YTi-8f2be5109afbea81eb9f111123acb6f036e3ec2b-ce7d51827c5f41ad67d911362a6655f1
-
-#EXTINF:-1 group-title="Badminton",Court 1 [Server 20]
-https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=8f2be5109afbea81eb9f111123acb6f036e3ec2b&x-sign=047d8eb7a9490763d3426414ecb8a1c6&x-time=1781775900
+#EXTINF:-1 group-title="Badminton",Court 2 [Server 3]
+https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781873130-Kv4cPTAAP5YTi-420a8bbb697a9612ec117d01ffc9b39ca66aba31-b0936527437fee0fd15134a5d51f06dc
 
 #EXTINF:-1 group-title="Badminton",Court 2 [Server 3]
-https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781862340-Kv4cPTAAP5YTi-8f2be5109afbea81eb9f111123acb6f036e3ec2b-223746f1ae5f51ebe8475fd91d923d37
+https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=420a8bbb697a9612ec117d01ffc9b39ca66aba31&x-sign=cefabe0655468f5a1b3f09db50ae0d76&x-time=1781786700
 
-#EXTINF:-1 group-title="Badminton",Court 2 [Server 3]
-https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=8f2be5109afbea81eb9f111123acb6f036e3ec2b&x-sign=a0683707822981917d8e0e2a3b5be2f5&x-time=1781775900
+#EXTINF:-1 group-title="Badminton",Court 1 [Server 20]
+https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1781873135-Kv4cPTAAP5YTi-420a8bbb697a9612ec117d01ffc9b39ca66aba31-352601e4c6f3876190cb3a4b1dad3641
+
+#EXTINF:-1 group-title="Badminton",Court 1 [Server 20]
+https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=420a8bbb697a9612ec117d01ffc9b39ca66aba31&x-sign=d59c513e309a5bd35a3e2d9d5f09a4bd&x-time=1781786700
 
 #EXTINF:-1 group-title="Badminton",Court 3 [Server 7]
-https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1781862346-Kv4cPTAAP5YTi-8f2be5109afbea81eb9f111123acb6f036e3ec2b-6af069bf8315f8d84d87e05ea282a4f0
+https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1781873141-Kv4cPTAAP5YTi-420a8bbb697a9612ec117d01ffc9b39ca66aba31-f915bc0b83714e3439ccc7c1183a00d7
 
 #EXTINF:-1 group-title="Badminton",Court 3 [Server 7]
-https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=8f2be5109afbea81eb9f111123acb6f036e3ec2b&x-sign=febe3e70871b727909af799dcd17e473&x-time=1781775900
+https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=420a8bbb697a9612ec117d01ffc9b39ca66aba31&x-sign=6eb751b7ab96bb8a4b15d36a0bc32610&x-time=1781786700
 
 #EXTINF:-1 group-title="Baseball",Prague - Day 3 [Server 6]
-https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781862352-Kv4cPTAAP5YTi-8f2be5109afbea81eb9f111123acb6f036e3ec2b-b2b26404f12af7116a3c205b5cb9e602
+https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781873146-Kv4cPTAAP5YTi-420a8bbb697a9612ec117d01ffc9b39ca66aba31-1064e4686f5a4b1d815c22ae500e35a6
 
 #EXTINF:-1 group-title="Baseball",Prague - Day 3 [Server 6]
-https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=8f2be5109afbea81eb9f111123acb6f036e3ec2b&x-sign=ed2f8f29fc9067524e4134ee9ffd3b12&x-time=1781775900
+https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=420a8bbb697a9612ec117d01ffc9b39ca66aba31&x-sign=d124261bf36e0d626df75058eccc20db&x-time=1781786700
 
 #EXTINF:-1 group-title="Tennis",Day 4: Berlin Open [Server 4]
-https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781862358-Kv4cPTAAP5YTi-8f2be5109afbea81eb9f111123acb6f036e3ec2b-1e5ddbfbf3e8c9eae3f400509569d977
+https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781873152-Kv4cPTAAP5YTi-420a8bbb697a9612ec117d01ffc9b39ca66aba31-7016e69ac65da15f52caec71b048594d
 
 #EXTINF:-1 group-title="Tennis",Day 4: Berlin Open [Server 4]
-https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=8f2be5109afbea81eb9f111123acb6f036e3ec2b&x-sign=df87e1beec98f1a1daf8950f03b4ba4d&x-time=1781775900
+https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=420a8bbb697a9612ec117d01ffc9b39ca66aba31&x-sign=82e7e2b8de09ac4d50f20992e17ae506&x-time=1781786700
+
+#EXTINF:-1 group-title="Tennis",Day 6: Halle Germany [Server 147445]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=420a8bbb697a9612ec117d01ffc9b39ca66aba31&x-sign=e7e26a80d82a7e4d22bb2618347222ab&x-time=1781786700
+
+#EXTINF:-1 group-title="Tennis",ANDY MURRAY ARENA [Server 9]
+https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1781873162-Kv4cPTAAP5YTi-420a8bbb697a9612ec117d01ffc9b39ca66aba31-a64ae00c0e3f38c39f8754f81a945814
+
+#EXTINF:-1 group-title="Tennis",ANDY MURRAY ARENA [Server 9]
+https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=420a8bbb697a9612ec117d01ffc9b39ca66aba31&x-sign=8482d2f9d9c2033991a1cca25941a02f&x-time=1781786760
+
+#EXTINF:-1 group-title="Football",Geelong Cats vs Fremantle [Server 450]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=420a8bbb697a9612ec117d01ffc9b39ca66aba31&x-sign=91a4b1994f67d4552b3dd1aed90fe49c&x-time=1781786760
+
+#EXTINF:-1 group-title="Cycling",ES1, Tour of Slovenia, Stage 2 [Server 1419]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=420a8bbb697a9612ec117d01ffc9b39ca66aba31&x-sign=07328e8f53f2b1e7d5449b3942c1651e&x-time=1781786760
+
+#EXTINF:-1 group-title="Volleyball",Serbia vs Italy [Server 3]
+https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781873178-Kv4cPTAAP5YTi-420a8bbb697a9612ec117d01ffc9b39ca66aba31-e5004f8698e88ba2e0524959746dc60d
+
+#EXTINF:-1 group-title="Volleyball",Serbia vs Italy [Server 3]
+https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=420a8bbb697a9612ec117d01ffc9b39ca66aba31&x-sign=eeaba00a453d358f84063766cee47b31&x-time=1781786760
 
