@@ -1,38 +1,32 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Badminton",Court 2 [Server 3]
-https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781846131-Kv4cPTAAP5YTi-1b7b1c58f984f6eeaf56c2f6fdc3cbaec0e93b2a-72f6847b44d8f5558ea8e04845fbbe88
-
-#EXTINF:-1 group-title="Badminton",Court 2 [Server 3]
-https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=1b7b1c58f984f6eeaf56c2f6fdc3cbaec0e93b2a&x-sign=116908197e61af708961f3536aaa44a6&x-time=1781759700
+#EXTINF:-1 group-title="Badminton",Court 1 [Server 20]
+https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1781862333-Kv4cPTAAP5YTi-8f2be5109afbea81eb9f111123acb6f036e3ec2b-ce7d51827c5f41ad67d911362a6655f1
 
 #EXTINF:-1 group-title="Badminton",Court 1 [Server 20]
-https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1781846138-Kv4cPTAAP5YTi-1b7b1c58f984f6eeaf56c2f6fdc3cbaec0e93b2a-468b275a6688c881c76640d24d4a7a6a
+https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=8f2be5109afbea81eb9f111123acb6f036e3ec2b&x-sign=047d8eb7a9490763d3426414ecb8a1c6&x-time=1781775900
 
-#EXTINF:-1 group-title="Badminton",Court 1 [Server 20]
-https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=1b7b1c58f984f6eeaf56c2f6fdc3cbaec0e93b2a&x-sign=8be4db66ce9f0d350a375fc780fb3f42&x-time=1781759700
+#EXTINF:-1 group-title="Badminton",Court 2 [Server 3]
+https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781862340-Kv4cPTAAP5YTi-8f2be5109afbea81eb9f111123acb6f036e3ec2b-223746f1ae5f51ebe8475fd91d923d37
+
+#EXTINF:-1 group-title="Badminton",Court 2 [Server 3]
+https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=8f2be5109afbea81eb9f111123acb6f036e3ec2b&x-sign=a0683707822981917d8e0e2a3b5be2f5&x-time=1781775900
 
 #EXTINF:-1 group-title="Badminton",Court 3 [Server 7]
-https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1781846144-Kv4cPTAAP5YTi-1b7b1c58f984f6eeaf56c2f6fdc3cbaec0e93b2a-c873a5c9ab5347318a4d677c9d9d9329
+https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1781862346-Kv4cPTAAP5YTi-8f2be5109afbea81eb9f111123acb6f036e3ec2b-6af069bf8315f8d84d87e05ea282a4f0
 
 #EXTINF:-1 group-title="Badminton",Court 3 [Server 7]
-https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=1b7b1c58f984f6eeaf56c2f6fdc3cbaec0e93b2a&x-sign=2af0dae4f4b365ad12126a73c2baf089&x-time=1781759700
+https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=8f2be5109afbea81eb9f111123acb6f036e3ec2b&x-sign=febe3e70871b727909af799dcd17e473&x-time=1781775900
 
-#EXTINF:-1 group-title="Baseball",Tohoku Rakuten Golden Eagles vs Yomiuri Giants [Server 6]
-https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781846150-Kv4cPTAAP5YTi-1b7b1c58f984f6eeaf56c2f6fdc3cbaec0e93b2a-98f4a6802ba388a7afe783b550b9a215
+#EXTINF:-1 group-title="Baseball",Prague - Day 3 [Server 6]
+https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781862352-Kv4cPTAAP5YTi-8f2be5109afbea81eb9f111123acb6f036e3ec2b-b2b26404f12af7116a3c205b5cb9e602
 
-#EXTINF:-1 group-title="Baseball",Tohoku Rakuten Golden Eagles vs Yomiuri Giants [Server 6]
-https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=1b7b1c58f984f6eeaf56c2f6fdc3cbaec0e93b2a&x-sign=ac390cbd9b0cc32a4e69f1f3d0738ab2&x-time=1781759700
+#EXTINF:-1 group-title="Baseball",Prague - Day 3 [Server 6]
+https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=8f2be5109afbea81eb9f111123acb6f036e3ec2b&x-sign=ed2f8f29fc9067524e4134ee9ffd3b12&x-time=1781775900
 
-#EXTINF:-1 group-title="Baseball",Fukuoka SoftBank Hawks vs Orix Buffaloes [Server 4]
-https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781846156-Kv4cPTAAP5YTi-1b7b1c58f984f6eeaf56c2f6fdc3cbaec0e93b2a-0e0aada1a38ead8d81492f6a1eb5ec07
+#EXTINF:-1 group-title="Tennis",Day 4: Berlin Open [Server 4]
+https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781862358-Kv4cPTAAP5YTi-8f2be5109afbea81eb9f111123acb6f036e3ec2b-1e5ddbfbf3e8c9eae3f400509569d977
 
-#EXTINF:-1 group-title="Baseball",Fukuoka SoftBank Hawks vs Orix Buffaloes [Server 4]
-https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=1b7b1c58f984f6eeaf56c2f6fdc3cbaec0e93b2a&x-sign=8637ddfe70c8a8a9959053010f585d04&x-time=1781759700
-
-#EXTINF:-1 group-title="Baseball",Yokohama DeNA BayStars vs Tokyo Yakult Swallows [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781846162-Kv4cPTAAP5YTi-1b7b1c58f984f6eeaf56c2f6fdc3cbaec0e93b2a-2b8f3f3bd63e67384d77dabc3d635ead
-
-#EXTINF:-1 group-title="Baseball",Yokohama DeNA BayStars vs Tokyo Yakult Swallows [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=1b7b1c58f984f6eeaf56c2f6fdc3cbaec0e93b2a&x-sign=5dc6f88278d22852545b55230e548a45&x-time=1781759760
+#EXTINF:-1 group-title="Tennis",Day 4: Berlin Open [Server 4]
+https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=8f2be5109afbea81eb9f111123acb6f036e3ec2b&x-sign=df87e1beec98f1a1daf8950f03b4ba4d&x-time=1781775900
 
