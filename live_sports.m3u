@@ -1,53 +1,35 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Badminton",Court 2 [Server 3]
-https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781873130-Kv4cPTAAP5YTi-420a8bbb697a9612ec117d01ffc9b39ca66aba31-b0936527437fee0fd15134a5d51f06dc
-
-#EXTINF:-1 group-title="Badminton",Court 2 [Server 3]
-https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=420a8bbb697a9612ec117d01ffc9b39ca66aba31&x-sign=cefabe0655468f5a1b3f09db50ae0d76&x-time=1781786700
-
-#EXTINF:-1 group-title="Badminton",Court 1 [Server 20]
-https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1781873135-Kv4cPTAAP5YTi-420a8bbb697a9612ec117d01ffc9b39ca66aba31-352601e4c6f3876190cb3a4b1dad3641
-
-#EXTINF:-1 group-title="Badminton",Court 1 [Server 20]
-https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=420a8bbb697a9612ec117d01ffc9b39ca66aba31&x-sign=d59c513e309a5bd35a3e2d9d5f09a4bd&x-time=1781786700
-
-#EXTINF:-1 group-title="Badminton",Court 3 [Server 7]
-https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1781873141-Kv4cPTAAP5YTi-420a8bbb697a9612ec117d01ffc9b39ca66aba31-f915bc0b83714e3439ccc7c1183a00d7
-
-#EXTINF:-1 group-title="Badminton",Court 3 [Server 7]
-https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=420a8bbb697a9612ec117d01ffc9b39ca66aba31&x-sign=6eb751b7ab96bb8a4b15d36a0bc32610&x-time=1781786700
-
-#EXTINF:-1 group-title="Baseball",Prague - Day 3 [Server 6]
-https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781873146-Kv4cPTAAP5YTi-420a8bbb697a9612ec117d01ffc9b39ca66aba31-1064e4686f5a4b1d815c22ae500e35a6
-
-#EXTINF:-1 group-title="Baseball",Prague - Day 3 [Server 6]
-https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=420a8bbb697a9612ec117d01ffc9b39ca66aba31&x-sign=d124261bf36e0d626df75058eccc20db&x-time=1781786700
+#EXTINF:-1 group-title="Tennis",Day 4: Berlin Open [Server 4]
+https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781886652-Kv4cPTAAP5YTi-5809b35cdee326971474ed575343a18675d298ad-91e38ff79d41869edcffc7154cc9e1e8
 
 #EXTINF:-1 group-title="Tennis",Day 4: Berlin Open [Server 4]
-https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781873152-Kv4cPTAAP5YTi-420a8bbb697a9612ec117d01ffc9b39ca66aba31-7016e69ac65da15f52caec71b048594d
-
-#EXTINF:-1 group-title="Tennis",Day 4: Berlin Open [Server 4]
-https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=420a8bbb697a9612ec117d01ffc9b39ca66aba31&x-sign=82e7e2b8de09ac4d50f20992e17ae506&x-time=1781786700
-
-#EXTINF:-1 group-title="Tennis",Day 6: Halle Germany [Server 147445]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=420a8bbb697a9612ec117d01ffc9b39ca66aba31&x-sign=e7e26a80d82a7e4d22bb2618347222ab&x-time=1781786700
+https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=5809b35cdee326971474ed575343a18675d298ad&x-sign=e59df5211cfcef3c8a2f3416dac469bb&x-time=1781800200
 
 #EXTINF:-1 group-title="Tennis",ANDY MURRAY ARENA [Server 9]
-https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1781873162-Kv4cPTAAP5YTi-420a8bbb697a9612ec117d01ffc9b39ca66aba31-a64ae00c0e3f38c39f8754f81a945814
+https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1781886658-Kv4cPTAAP5YTi-5809b35cdee326971474ed575343a18675d298ad-4598f38ef1de88a8407b4ce4dd2a0538
 
 #EXTINF:-1 group-title="Tennis",ANDY MURRAY ARENA [Server 9]
-https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=420a8bbb697a9612ec117d01ffc9b39ca66aba31&x-sign=8482d2f9d9c2033991a1cca25941a02f&x-time=1781786760
+https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=5809b35cdee326971474ed575343a18675d298ad&x-sign=cd9b8cb60ad867a667905c262ae1af9a&x-time=1781800200
 
-#EXTINF:-1 group-title="Football",Geelong Cats vs Fremantle [Server 450]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=420a8bbb697a9612ec117d01ffc9b39ca66aba31&x-sign=91a4b1994f67d4552b3dd1aed90fe49c&x-time=1781786760
+#EXTINF:-1 group-title="Cycling",ES1, Tour of Switzerland, Stage 2 [Server 1419]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=5809b35cdee326971474ed575343a18675d298ad&x-sign=24ab7c8fb988f63efb80794925197e56&x-time=1781800260
 
-#EXTINF:-1 group-title="Cycling",ES1, Tour of Slovenia, Stage 2 [Server 1419]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=420a8bbb697a9612ec117d01ffc9b39ca66aba31&x-sign=07328e8f53f2b1e7d5449b3942c1651e&x-time=1781786760
+#EXTINF:-1 group-title="Football",Czechia vs South Africa [Server 240885]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=1781886669-Kv4cPTAAP5YTi-5809b35cdee326971474ed575343a18675d298ad-42c67950edfde14d5d8a6ff8ecde581d
 
-#EXTINF:-1 group-title="Volleyball",Serbia vs Italy [Server 3]
-https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781873178-Kv4cPTAAP5YTi-420a8bbb697a9612ec117d01ffc9b39ca66aba31-e5004f8698e88ba2e0524959746dc60d
+#EXTINF:-1 group-title="Football",Czechia vs South Africa [Server 240885]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=5809b35cdee326971474ed575343a18675d298ad&x-sign=28cc9c60df16e8d8d5f875c55ddd8c91&x-time=1781800260
 
-#EXTINF:-1 group-title="Volleyball",Serbia vs Italy [Server 3]
-https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=420a8bbb697a9612ec117d01ffc9b39ca66aba31&x-sign=eeaba00a453d358f84063766cee47b31&x-time=1781786760
+#EXTINF:-1 group-title="Football",Czechia vs South Africa [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781886671-Kv4cPTAAP5YTi-5809b35cdee326971474ed575343a18675d298ad-7bee929640a999e01e622439f720946e
+
+#EXTINF:-1 group-title="Football",Czechia vs South Africa [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=5809b35cdee326971474ed575343a18675d298ad&x-sign=1f5a3a2d36685e28c0e523c035faa5d2&x-time=1781800260
+
+#EXTINF:-1 group-title="Volleyball",Türkiye vs France [Server 68905]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=5809b35cdee326971474ed575343a18675d298ad&x-sign=5c0882f7f19ae4358c7e6a32fbe20f36&x-time=1781800260
+
+#EXTINF:-1 group-title="Volleyball",Türkiye vs France [Server 68905]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=1781886677-Kv4cPTAAP5YTi-5809b35cdee326971474ed575343a18675d298ad-376ddf702813f0b188ea53f44a1c2636
 
