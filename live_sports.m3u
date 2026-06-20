@@ -1,26 +1,44 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Tennis",Day 8: Halle Germany [Server 147445]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1782070238-Kv4cPTAAP5YTi-5041bbb2122659311dcba337bce51ee794a2af99-bc82961ffe465aec46f6b52d7e3a5c06
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1782076533-Kv4cPTAAP5YTi-862c105ef00d61f436ee4b9111ac99ec14814638-3d3acf0dec85b41fcd375e4680e1fc6b
 
 #EXTINF:-1 group-title="Tennis",Day 8: Halle Germany [Server 147445]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=5041bbb2122659311dcba337bce51ee794a2af99&x-sign=d866ed9fb122972fae0081c0b8c15b61&x-time=1781983800
+https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=862c105ef00d61f436ee4b9111ac99ec14814638&x-sign=a4b8eddaef2809d44517eabd63bdeb2d&x-time=1781990100
 
 #EXTINF:-1 group-title="Darts",Day 2 - Evening Session [Server 9]
-https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1782070243-Kv4cPTAAP5YTi-5041bbb2122659311dcba337bce51ee794a2af99-af3654dae92ff3bcd3367fa434bd2062
+https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1782076539-Kv4cPTAAP5YTi-862c105ef00d61f436ee4b9111ac99ec14814638-943ebaccc349f311bd3623e729ac823f
 
 #EXTINF:-1 group-title="Darts",Day 2 - Evening Session [Server 9]
-https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=5041bbb2122659311dcba337bce51ee794a2af99&x-sign=cb93203b3bf151f08e7bb53e69c74b17&x-time=1781983800
+https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=862c105ef00d61f436ee4b9111ac99ec14814638&x-sign=67626671b1ea65e06bab9bc8c6cccc51&x-time=1781990100
 
 #EXTINF:-1 group-title="Football",Almeria vs Malaga [Server 112521]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/112521/720p/chunks.m3u8?is_vip=false&token=5041bbb2122659311dcba337bce51ee794a2af99&x-sign=ef55a1b2d4e015d6184a0eb23abdd4d4&x-time=1781983800
+https://livecdn-bp-iptv.rumsport7.live/live_abr/112521/720p/chunks.m3u8?is_vip=false&token=862c105ef00d61f436ee4b9111ac99ec14814638&x-sign=1f795dede7f2ef62d9312772a5592f0b&x-time=1781990100
 
 #EXTINF:-1 group-title="Football",Almeria vs Malaga [Server 112521]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/112521/720p/chunks.m3u8?is_vip=false&token=1782070249-Kv4cPTAAP5YTi-5041bbb2122659311dcba337bce51ee794a2af99-6dfef07a0e0464612846bea6d8f7e174
+https://livecdn-tc-iptv.rumsport10.live/live_abr/112521/720p/chunks.m3u8?is_vip=false&token=1782076546-Kv4cPTAAP5YTi-862c105ef00d61f436ee4b9111ac99ec14814638-58f428fb4506d2a762c383c9a84df91a
 
-#EXTINF:-1 group-title="Sailing",Day 1 [Server 4]
-https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1782070254-Kv4cPTAAP5YTi-5041bbb2122659311dcba337bce51ee794a2af99-77d6aca030d95f14f0e856d90eef6cd8
+#EXTINF:-1 group-title="Football",Germany vs Ivory Coast [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782076551-Kv4cPTAAP5YTi-862c105ef00d61f436ee4b9111ac99ec14814638-664135e9f1c9775fc122fc311102dc2f
 
-#EXTINF:-1 group-title="Sailing",Day 1 [Server 4]
-https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=5041bbb2122659311dcba337bce51ee794a2af99&x-sign=c64cf034aabdc4a2cfd1b0de6bd4a9c9&x-time=1781983800
+#EXTINF:-1 group-title="Football",Germany vs Ivory Coast [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=862c105ef00d61f436ee4b9111ac99ec14814638&x-sign=4970dfeb5e36e2fecd114d29d703cc46&x-time=1781990100
+
+#EXTINF:-1 group-title="Football",Germany vs Ivory Coast [Server 177]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1782076553-Kv4cPTAAP5YTi-862c105ef00d61f436ee4b9111ac99ec14814638-7bd3731bed129cd230b280a95b2cd9ae
+
+#EXTINF:-1 group-title="Football",Germany vs Ivory Coast [Server 177]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=862c105ef00d61f436ee4b9111ac99ec14814638&x-sign=dea204a767426a621ab5490cc72f1c73&x-time=1781990100
+
+#EXTINF:-1 group-title="MMA",CAGE WARRIORS 207 [Server 498587]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1782076559-Kv4cPTAAP5YTi-862c105ef00d61f436ee4b9111ac99ec14814638-267246be9c7a355e6630bcc4a0ec84a0
+
+#EXTINF:-1 group-title="MMA",CAGE WARRIORS 207 [Server 498587]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=862c105ef00d61f436ee4b9111ac99ec14814638&x-sign=c1ae53121d4bf46bffccb2c65846b07c&x-time=1781990160
+
+#EXTINF:-1 group-title="MMA",PRELIMS [Server 53768]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/53768/720p/chunks.m3u8?is_vip=false&token=1782076565-Kv4cPTAAP5YTi-862c105ef00d61f436ee4b9111ac99ec14814638-4e9d4613a484c1b08b204f0e5b82577e
+
+#EXTINF:-1 group-title="MMA",PRELIMS [Server 53768]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/53768/720p/chunks.m3u8?is_vip=false&token=862c105ef00d61f436ee4b9111ac99ec14814638&x-sign=3ca6193aca1896025e81391da661468f&x-time=1781990160
 
