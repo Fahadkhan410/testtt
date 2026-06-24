@@ -1,56 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Badminton",Court 4 [Server 8]
-https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1782359130-Kv4cPTAAP5YTi-fc93148c5d823ae81f539f6ab87cacd90524f6d2-21fca77863876a59a46365c6f0e5aa38
-
-#EXTINF:-1 group-title="Badminton",Court 4 [Server 8]
-https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=fc93148c5d823ae81f539f6ab87cacd90524f6d2&x-sign=bd9ab4db767f1dc8d27f546de1a78119&x-time=1782272700
-
-#EXTINF:-1 group-title="Badminton",Court 1 [Server 5]
-https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1782359136-Kv4cPTAAP5YTi-fc93148c5d823ae81f539f6ab87cacd90524f6d2-7ff1e52cb9be43e2b1550d1a22abf5c2
-
-#EXTINF:-1 group-title="Badminton",Court 1 [Server 5]
-https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=fc93148c5d823ae81f539f6ab87cacd90524f6d2&x-sign=afbe5cdff07f6099e6bff94a0d9a1c78&x-time=1782272700
-
-#EXTINF:-1 group-title="Badminton",Court 3 [Server 7]
-https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1782359142-Kv4cPTAAP5YTi-fc93148c5d823ae81f539f6ab87cacd90524f6d2-b47a4b07fbbbacfa84953830b6714b0b
-
-#EXTINF:-1 group-title="Badminton",Court 3 [Server 7]
-https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=fc93148c5d823ae81f539f6ab87cacd90524f6d2&x-sign=8a93e3cdf1fe04c4ae77ef1427fdd420&x-time=1782272700
-
-#EXTINF:-1 group-title="Badminton",Court 2 [Server 6]
-https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1782359148-Kv4cPTAAP5YTi-fc93148c5d823ae81f539f6ab87cacd90524f6d2-a938fc798ca026cecdec6d9dfa3efe70
-
-#EXTINF:-1 group-title="Badminton",Court 2 [Server 6]
-https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=fc93148c5d823ae81f539f6ab87cacd90524f6d2&x-sign=0cc7688e11a7fdd2cb74e8996156458d&x-time=1782272700
-
-#EXTINF:-1 group-title="Baseball",Baltimore Orioles vs Los Angeles Angels [Server 55847]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55847/720p/chunks.m3u8?is_vip=false&token=fc93148c5d823ae81f539f6ab87cacd90524f6d2&x-sign=b0c590d4655aa8c8b1a7387a936b748b&x-time=1782272700
-
-#EXTINF:-1 group-title="Baseball",Atlanta Braves vs San Diego Padres [Server 55850]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55850/720p/chunks.m3u8?is_vip=false&token=fc93148c5d823ae81f539f6ab87cacd90524f6d2&x-sign=3b5a66429b655039c5ca6ebed6cb574d&x-time=1782272700
-
-#EXTINF:-1 group-title="Football",Colombia vs Congo DR [Server 451]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1782359166-Kv4cPTAAP5YTi-fc93148c5d823ae81f539f6ab87cacd90524f6d2-c5afc8d0cfd16d802643be221a2d757f
-
-#EXTINF:-1 group-title="Football",Colombia vs Congo DR [Server 451]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=fc93148c5d823ae81f539f6ab87cacd90524f6d2&x-sign=3504347c828e55758a85c982fb6b87ad&x-time=1782272760
+#EXTINF:-1 group-title="Baseball",Tokyo Yakult Swallows vs Yokohama DeNA BayStars [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782372637-Kv4cPTAAP5YTi-d1392cf052eb1d44d3940eb96848f56f0e9dbff8-fc05db5cf55f5e1fc1c4e2c5ad4662b0
 
 #EXTINF:-1 group-title="Baseball",Tokyo Yakult Swallows vs Yokohama DeNA BayStars [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782359171-Kv4cPTAAP5YTi-fc93148c5d823ae81f539f6ab87cacd90524f6d2-5f9ad17f70f04c0ccf7ca526f30940e0
-
-#EXTINF:-1 group-title="Baseball",Tokyo Yakult Swallows vs Yokohama DeNA BayStars [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=fc93148c5d823ae81f539f6ab87cacd90524f6d2&x-sign=c5a9e13717cfb07fec0a7989ab47c703&x-time=1782272760
-
-#EXTINF:-1 group-title="Baseball",Hokkaido Nippon-Ham Fighters vs Chiba Lotte Marines [Server 20]
-https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1782359178-Kv4cPTAAP5YTi-fc93148c5d823ae81f539f6ab87cacd90524f6d2-214a6c5403048c1142588682e5674584
-
-#EXTINF:-1 group-title="Baseball",Hokkaido Nippon-Ham Fighters vs Chiba Lotte Marines [Server 20]
-https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=fc93148c5d823ae81f539f6ab87cacd90524f6d2&x-sign=3ad11b9c409ab1b8ef9b076851d7ee86&x-time=1782272760
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=d1392cf052eb1d44d3940eb96848f56f0e9dbff8&x-sign=2edc04568f171369389aeac10cd16fb0&x-time=1782286200
 
 #EXTINF:-1 group-title="Baseball",Saitama Seibu Lions vs Orix Buffaloes [Server 9]
-https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1782359184-Kv4cPTAAP5YTi-fc93148c5d823ae81f539f6ab87cacd90524f6d2-067cb26b3a5e873656e455ea9ba3a3e5
+https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1782372643-Kv4cPTAAP5YTi-d1392cf052eb1d44d3940eb96848f56f0e9dbff8-942481a869b6139b8a8ecc829117b009
 
 #EXTINF:-1 group-title="Baseball",Saitama Seibu Lions vs Orix Buffaloes [Server 9]
-https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=fc93148c5d823ae81f539f6ab87cacd90524f6d2&x-sign=7bd18d0dac72d70a2de56140a7ff4125&x-time=1782272760
+https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=d1392cf052eb1d44d3940eb96848f56f0e9dbff8&x-sign=bdc2bc8fd000cea0d291ea3dd417c32f&x-time=1782286200
+
+#EXTINF:-1 group-title="Baseball",Hokkaido Nippon-Ham Fighters vs Chiba Lotte Marines [Server 20]
+https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1782372648-Kv4cPTAAP5YTi-d1392cf052eb1d44d3940eb96848f56f0e9dbff8-3221025b7e0ac4d643d697f516fb9124
+
+#EXTINF:-1 group-title="Baseball",Hokkaido Nippon-Ham Fighters vs Chiba Lotte Marines [Server 20]
+https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=d1392cf052eb1d44d3940eb96848f56f0e9dbff8&x-sign=f79d2095067f410fa972c6e0438d1796&x-time=1782286200
 
