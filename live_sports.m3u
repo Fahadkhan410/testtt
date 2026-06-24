@@ -1,11 +1,32 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Baseball",Cleveland Guardians vs Chicago White Sox [Server 55838]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=c280d68f22cb7da64fcf52a0b7116ae9269391a2&x-sign=9c94435b21d29b599a73934c6802151d&x-time=1782335700
-
-#EXTINF:-1 group-title="Baseball",Boston Red Sox vs Colorado Rockies [Server 55839]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=c280d68f22cb7da64fcf52a0b7116ae9269391a2&x-sign=73452262a1f7aa9ada154148e32cf836&x-time=1782335700
-
 #EXTINF:-1 group-title="Baseball",Baltimore Orioles vs Los Angeles Angels [Server 55840]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=c280d68f22cb7da64fcf52a0b7116ae9269391a2&x-sign=067f9747be50d681d7542112560f171a&x-time=1782335700
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=f6fd04ee08e4aff7eaa4ec4854a92db8818ed883&x-sign=5d444274a9848399251f67b503cf8e27&x-time=1782341100
+
+#EXTINF:-1 group-title="Football",Morocco vs Haiti [Server 451]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1782427534-Kv4cPTAAP5YTi-f6fd04ee08e4aff7eaa4ec4854a92db8818ed883-2d6d1e750a574868af233b5c1800829f
+
+#EXTINF:-1 group-title="Football",Morocco vs Haiti [Server 451]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=f6fd04ee08e4aff7eaa4ec4854a92db8818ed883&x-sign=504f8551b76f9f8a3805c51256a32ec3&x-time=1782341100
+
+#EXTINF:-1 group-title="Football",Scotland vs Brazil [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782427540-Kv4cPTAAP5YTi-f6fd04ee08e4aff7eaa4ec4854a92db8818ed883-5ce25e28418176e85a914a7311e9a143
+
+#EXTINF:-1 group-title="Football",Scotland vs Brazil [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=f6fd04ee08e4aff7eaa4ec4854a92db8818ed883&x-sign=f27e445a367381a00823978d137b853b&x-time=1782341100
+
+#EXTINF:-1 group-title="Football",Scotland vs Brazil [Server 240885]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=f6fd04ee08e4aff7eaa4ec4854a92db8818ed883&x-sign=cea8dcd936b127bc10f69aa786f5aa18&x-time=1782341100
+
+#EXTINF:-1 group-title="Football",Scotland vs Brazil [Server 240885]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=1782427541-Kv4cPTAAP5YTi-f6fd04ee08e4aff7eaa4ec4854a92db8818ed883-58426abe3dce7042a9a90c3e762cf815
+
+#EXTINF:-1 group-title="Baseball",Kansas City Royals vs Tampa Bay Rays [Server 55842]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55842/720p/chunks.m3u8?is_vip=false&token=f6fd04ee08e4aff7eaa4ec4854a92db8818ed883&x-sign=42d9f78b09577cc90ce2446cc4549db2&x-time=1782341100
+
+#EXTINF:-1 group-title="Baseball",New York Yankees vs Detroit Tigers [Server 55843]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55843/720p/chunks.m3u8?is_vip=false&token=f6fd04ee08e4aff7eaa4ec4854a92db8818ed883&x-sign=add07270bf0dab8132e4b10454d84fff&x-time=1782341100
+
+#EXTINF:-1 group-title="Baseball",Seattle Mariners vs Pittsburgh Pirates [Server 55841]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=f6fd04ee08e4aff7eaa4ec4854a92db8818ed883&x-sign=2d4c47339ed1a4a5141fa897c2968b18&x-time=1782341100
 
