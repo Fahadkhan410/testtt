@@ -1,5 +1,32 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Baseball",Athletics vs San Francisco Giants [Server 55837]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=bb9b6c1cbbb04ead33d89acad6d20e02a46b3f35&x-sign=66dce2ae70f9e72b4993d8f2286ebf69&x-time=1782426600
+#EXTINF:-1 group-title="Baseball",Houston Astros vs Detroit Tigers [Server 55838]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=e4715098774429676ac337dc2706251ffb4040ba&x-sign=b081e834d395b18199393048f594e1b4&x-time=1782432000
+
+#EXTINF:-1 group-title="Baseball",Philadelphia Phillies vs Washington Nationals [Server 55839]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=e4715098774429676ac337dc2706251ffb4040ba&x-sign=f74216253bc3670d85b8a8466a84c64c&x-time=1782432000
+
+#EXTINF:-1 group-title="Football",Japan vs Sweden [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782518452-Kv4cPTAAP5YTi-e4715098774429676ac337dc2706251ffb4040ba-05625c75b2138be93262201a85888cd6
+
+#EXTINF:-1 group-title="Football",Japan vs Sweden [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=e4715098774429676ac337dc2706251ffb4040ba&x-sign=ca1d765ff8679e313dc77d9c571ef41d&x-time=1782432000
+
+#EXTINF:-1 group-title="Football",Tunisia vs Netherlands [Server 451]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=e4715098774429676ac337dc2706251ffb4040ba&x-sign=f8dcb4d146aebc33ace736af30c54c2a&x-time=1782432000
+
+#EXTINF:-1 group-title="Football",Tunisia vs Netherlands [Server 451]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1782518459-Kv4cPTAAP5YTi-e4715098774429676ac337dc2706251ffb4040ba-a7481df5dae294ef0aff1996f9f3dcfd
+
+#EXTINF:-1 group-title="Darts",Day 1 - Evening Session [Server 114414]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=e4715098774429676ac337dc2706251ffb4040ba&x-sign=592ebf55f229288ca8a933e16f69474b&x-time=1782432060
+
+#EXTINF:-1 group-title="Baseball",Texas Rangers vs Toronto Blue Jays [Server 55840]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=e4715098774429676ac337dc2706251ffb4040ba&x-sign=c51c27e71b333b1ddab3e221bafb928b&x-time=1782432060
+
+#EXTINF:-1 group-title="Baseball",Chicago Cubs vs New York Mets [Server 55841]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=e4715098774429676ac337dc2706251ffb4040ba&x-sign=7f97764605ca44841a8fb5b823c670b1&x-time=1782432060
+
+#EXTINF:-1 group-title="Baseball",New York Yankees vs Boston Red Sox [Server 55842]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55842/720p/chunks.m3u8?is_vip=false&token=e4715098774429676ac337dc2706251ffb4040ba&x-sign=4adaa53ed4dd795113a68839850be330&x-time=1782432060
 
