@@ -1,20 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Darts",Day 2 - Afternoon Session [Server 114414]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=77695aea24cb956d00c9a7d9140d3b42b7b2fc66&x-sign=2dab2087f2c7c685b177d0071233de5a&x-time=1782506700
-
-#EXTINF:-1 group-title="Cricket",West Indies vs Sri Lanka [Server 423]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/423/720p/chunks.m3u8?is_vip=false&token=77695aea24cb956d00c9a7d9140d3b42b7b2fc66&x-sign=1d3853d6885802f3846432e6e3625f9e&x-time=1782506700
-
-#EXTINF:-1 group-title="Football",Senegal vs Iraq [Server 451]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=77695aea24cb956d00c9a7d9140d3b42b7b2fc66&x-sign=9a4a3954fa934c7948f17e4936b916c0&x-time=1782506700
-
-#EXTINF:-1 group-title="Football",Senegal vs Iraq [Server 451]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1782593143-Kv4cPTAAP5YTi-77695aea24cb956d00c9a7d9140d3b42b7b2fc66-9da0f764d4dd56162d2ffd886e7db1d6
-
-#EXTINF:-1 group-title="Football",Norway vs France [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782593148-Kv4cPTAAP5YTi-77695aea24cb956d00c9a7d9140d3b42b7b2fc66-d198445915709f39ee7cb772cc8d344f
-
-#EXTINF:-1 group-title="Football",Norway vs France [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=77695aea24cb956d00c9a7d9140d3b42b7b2fc66&x-sign=fcf18b7967e7485ac074261d8cc216a3&x-time=1782506700
+#EXTINF:-1 group-title="Football",HFX Wanderers FC vs Pacific FC [Server 450]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=52b52a263ccd62c7691e33e4bc073ceecc4b414a&x-sign=57d5f6070243faecdd771ec978b1e029&x-time=1782512100
 
