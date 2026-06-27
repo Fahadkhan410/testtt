@@ -1,29 +1,41 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Baseball",Texas Rangers vs Toronto Blue Jays [Server 55837]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=de2962a117c8247783f5f14098494c50d5927bda&x-sign=da0d90dff8bb2e88ee258efe7d52464c&x-time=1782597600
-
 #EXTINF:-1 group-title="Baseball",Cincinnati Reds vs Pittsburgh Pirates [Server 55838]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=de2962a117c8247783f5f14098494c50d5927bda&x-sign=102e9ab3829b59a11177f12acfb5e240&x-time=1782597600
-
-#EXTINF:-1 group-title="Baseball",Kansas City Royals vs Chicago White Sox [Server 55840]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=de2962a117c8247783f5f14098494c50d5927bda&x-sign=d54014b04d912bfaebf9cfdd6b57aa76&x-time=1782597660
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=c212bb2503066f617cf113108b203e973be1512e&x-sign=a7b2cefe7eadf338d1d645d158a2dc74&x-time=1782603000
 
 #EXTINF:-1 group-title="Baseball",Philadelphia Phillies vs New York Mets [Server 55839]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=de2962a117c8247783f5f14098494c50d5927bda&x-sign=9e3941828d8daf3fde606f822e439274&x-time=1782597660
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=c212bb2503066f617cf113108b203e973be1512e&x-sign=3d22d15c30b82697e97df07321bed787&x-time=1782603000
 
-#EXTINF:-1 group-title="Football",Panama vs England [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782684070-Kv4cPTAAP5YTi-de2962a117c8247783f5f14098494c50d5927bda-c9ecc28705b5e3f75121dd61b5615c57
-
-#EXTINF:-1 group-title="Football",Panama vs England [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=de2962a117c8247783f5f14098494c50d5927bda&x-sign=547c0303cca6967b06b36b26dbc593d8&x-time=1782597660
-
-#EXTINF:-1 group-title="Football",Croatia vs Ghana [Server 451]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1782684076-Kv4cPTAAP5YTi-de2962a117c8247783f5f14098494c50d5927bda-a5c31990541f47515413c897b0a1cbc7
-
-#EXTINF:-1 group-title="Football",Croatia vs Ghana [Server 451]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=de2962a117c8247783f5f14098494c50d5927bda&x-sign=661ecd763642027bbaa20b712ab64ab4&x-time=1782597660
+#EXTINF:-1 group-title="Baseball",Kansas City Royals vs Chicago White Sox [Server 55840]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=c212bb2503066f617cf113108b203e973be1512e&x-sign=9e989722e54c0d03556f189e8b46fecd&x-time=1782603000
 
 #EXTINF:-1 group-title="Baseball",Arizona Diamondbacks vs Tampa Bay Rays [Server 55841]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=de2962a117c8247783f5f14098494c50d5927bda&x-sign=8947d747cccb62e34311c94ee0d6e991&x-time=1782597660
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=c212bb2503066f617cf113108b203e973be1512e&x-sign=ea4dde9df9072113e6dbcfad21fb3950&x-time=1782603060
+
+#EXTINF:-1 group-title="Baseball",Washington Nationals vs Baltimore Orioles [Server 55842]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55842/720p/chunks.m3u8?is_vip=false&token=c212bb2503066f617cf113108b203e973be1512e&x-sign=2896b7a031540b18b7215be227a64d1d&x-time=1782603060
+
+#EXTINF:-1 group-title="Baseball",Seattle Mariners vs Cleveland Guardians [Server 55843]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55843/720p/chunks.m3u8?is_vip=false&token=c212bb2503066f617cf113108b203e973be1512e&x-sign=2ba2ba345b9190cd8d76a19fbeb0fc56&x-time=1782603060
+
+#EXTINF:-1 group-title="Baseball",Chicago Cubs vs Milwaukee Brewers [Server 55845]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55845/720p/chunks.m3u8?is_vip=false&token=c212bb2503066f617cf113108b203e973be1512e&x-sign=b74f3d1839c15dd99152be89e9e24ff0&x-time=1782603060
+
+#EXTINF:-1 group-title="Baseball",Colorado Rockies vs Minnesota Twins [Server 55844]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55844/720p/chunks.m3u8?is_vip=false&token=c212bb2503066f617cf113108b203e973be1512e&x-sign=4db58243af3669f5b1565148388cb446&x-time=1782603060
+
+#EXTINF:-1 group-title="Baseball",Miami Marlins vs St. Louis Cardinals [Server 55846]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55846/720p/chunks.m3u8?is_vip=false&token=c212bb2503066f617cf113108b203e973be1512e&x-sign=51e148e6304886b9f404df886327d506&x-time=1782603060
+
+#EXTINF:-1 group-title="Football",Colombia vs Portugal [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782689500-Kv4cPTAAP5YTi-c212bb2503066f617cf113108b203e973be1512e-9ec9e50ec3df8eabae69fab26ad412f3
+
+#EXTINF:-1 group-title="Football",Colombia vs Portugal [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=c212bb2503066f617cf113108b203e973be1512e&x-sign=9cea0dd0abbd5ba749c5c463aeb440e3&x-time=1782603060
+
+#EXTINF:-1 group-title="Football",Congo DR vs Uzbekistan [Server 451]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1782689505-Kv4cPTAAP5YTi-c212bb2503066f617cf113108b203e973be1512e-e6be43a1b4ca27662a982f0f9899b8e5
+
+#EXTINF:-1 group-title="Football",Congo DR vs Uzbekistan [Server 451]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=c212bb2503066f617cf113108b203e973be1512e&x-sign=f4b4c61b8c3f6aac1c8d3bf07145038c&x-time=1782603060
 
