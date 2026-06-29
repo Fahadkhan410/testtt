@@ -1,14 +1,26 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Basketball",Qatar vs Saudi Arabia [Server 20]
-https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1782836131-Kv4cPTAAP5YTi-02aa36dc6fa9cbc5693ae6d97e97331fad21dc14-5aca223d4e1ca998fbd076a16d6cc3e9
-
-#EXTINF:-1 group-title="Basketball",Qatar vs Saudi Arabia [Server 20]
-https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=02aa36dc6fa9cbc5693ae6d97e97331fad21dc14&x-sign=e0cab3b39a53348f7f9ef0d12db2b9cc&x-time=1782749700
+#EXTINF:-1 group-title="Basketball",Iraq vs Jordan [Server 9]
+https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1782843330-Kv4cPTAAP5YTi-a227b95df579ffffb0c6aa38c3712819fc33f44c-3d8f8cf6253e76b283f270f7b10fd5ec
 
 #EXTINF:-1 group-title="Basketball",Iraq vs Jordan [Server 9]
-https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1782836137-Kv4cPTAAP5YTi-02aa36dc6fa9cbc5693ae6d97e97331fad21dc14-f2e24191de899eb9bd2fd2c14c3fcc26
+https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=a227b95df579ffffb0c6aa38c3712819fc33f44c&x-sign=bc0798f49193b459f206b0ce214e7c1e&x-time=1782756900
 
-#EXTINF:-1 group-title="Basketball",Iraq vs Jordan [Server 9]
-https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=02aa36dc6fa9cbc5693ae6d97e97331fad21dc14&x-sign=c7b1a4ac7fb2668b341228690f29d0fc&x-time=1782749700
+#EXTINF:-1 group-title="Football",Brazil vs Japan [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782843336-Kv4cPTAAP5YTi-a227b95df579ffffb0c6aa38c3712819fc33f44c-4edb4947249a269cd0d4846e9e061fc6
+
+#EXTINF:-1 group-title="Football",Brazil vs Japan [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=a227b95df579ffffb0c6aa38c3712819fc33f44c&x-sign=cb8677601966301c167a3a38e3f7ed3b&x-time=1782756900
+
+#EXTINF:-1 group-title="Football",Brazil vs Japan [Server 177]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=a227b95df579ffffb0c6aa38c3712819fc33f44c&x-sign=7f6eaaad2580ea1540e53825299f4cd2&x-time=1782756900
+
+#EXTINF:-1 group-title="Football",Brazil vs Japan [Server 177]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1782843338-Kv4cPTAAP5YTi-a227b95df579ffffb0c6aa38c3712819fc33f44c-e21f7b12b5cb8184b737baeed9548cc1
+
+#EXTINF:-1 group-title="Basketball",Lebanon vs India [Server 18]
+https://livecdn-tc-livestream.rumsport10.live/stream/18/chunks.m3u8?is_vip=false&token=1782843348-Kv4cPTAAP5YTi-a227b95df579ffffb0c6aa38c3712819fc33f44c-426710a3881ef715e6591dc6a69a6840
+
+#EXTINF:-1 group-title="Basketball",Lebanon vs India [Server 18]
+https://livecdn-bp-livestream.rumsport7.live/stream/18/chunks.m3u8?is_vip=false&token=a227b95df579ffffb0c6aa38c3712819fc33f44c&x-sign=90682a5a2e8c578ac07cc3a80efe0588&x-time=1782756900
 
