@@ -1,5 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Cricket",England vs New Zealand [Server 490]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=3ba5363b90853bb243c7589fa6e9c0a63cd5d504&x-sign=d879f435a06a695655dca24af44f3b31&x-time=1782734400
+#EXTINF:-1 group-title="Basketball",Qatar vs Saudi Arabia [Server 20]
+https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1782836131-Kv4cPTAAP5YTi-02aa36dc6fa9cbc5693ae6d97e97331fad21dc14-5aca223d4e1ca998fbd076a16d6cc3e9
+
+#EXTINF:-1 group-title="Basketball",Qatar vs Saudi Arabia [Server 20]
+https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=02aa36dc6fa9cbc5693ae6d97e97331fad21dc14&x-sign=e0cab3b39a53348f7f9ef0d12db2b9cc&x-time=1782749700
+
+#EXTINF:-1 group-title="Basketball",Iraq vs Jordan [Server 9]
+https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1782836137-Kv4cPTAAP5YTi-02aa36dc6fa9cbc5693ae6d97e97331fad21dc14-f2e24191de899eb9bd2fd2c14c3fcc26
+
+#EXTINF:-1 group-title="Basketball",Iraq vs Jordan [Server 9]
+https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=02aa36dc6fa9cbc5693ae6d97e97331fad21dc14&x-sign=c7b1a4ac7fb2668b341228690f29d0fc&x-time=1782749700
 
