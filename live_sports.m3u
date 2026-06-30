@@ -1,8 +1,23 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Football",France vs Sweden [Server 177]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1782939653-Kv4cPTAAP5YTi-d5ba8f6b6d3534d6f26206cc271ce4f63a5e6ec6-51ec51a9ee318a2c8a529ef247a2bc51
+https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1782945929-Kv4cPTAAP5YTi-4b0d1d852a17f3fffdb32ce22abd55d01b6cf2e3-ffbca763765377dab41af455030fef38
 
 #EXTINF:-1 group-title="Football",France vs Sweden [Server 177]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=d5ba8f6b6d3534d6f26206cc271ce4f63a5e6ec6&x-sign=e8a9d56ab35d4fc1ceaeb821d145e907&x-time=1782853200
+https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=4b0d1d852a17f3fffdb32ce22abd55d01b6cf2e3&x-sign=be96992cb903e17555c559cc42c80ae2&x-time=1782859500
+
+#EXTINF:-1 group-title="Football",France vs Sweden [Server 152733]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/152733/720p/chunks.m3u8?is_vip=false&token=1782945931-Kv4cPTAAP5YTi-4b0d1d852a17f3fffdb32ce22abd55d01b6cf2e3-3f7a63612be5a1698fe8b7651cd97be1
+
+#EXTINF:-1 group-title="Baseball",Chicago White Sox vs Baltimore Orioles [Server 55835]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=4b0d1d852a17f3fffdb32ce22abd55d01b6cf2e3&x-sign=3f76caf32f0b23b32f621c110cfd9080&x-time=1782859500
+
+#EXTINF:-1 group-title="Baseball",Texas Rangers vs Cleveland Guardians [Server 55840]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=4b0d1d852a17f3fffdb32ce22abd55d01b6cf2e3&x-sign=e929f5822e0e9be7af88bfd673084715&x-time=1782859500
+
+#EXTINF:-1 group-title="Baseball",Pittsburgh Pirates vs Philadelphia Phillies [Server 55836]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=4b0d1d852a17f3fffdb32ce22abd55d01b6cf2e3&x-sign=25995be73d7cfeac9e6034cfca07d671&x-time=1782859500
+
+#EXTINF:-1 group-title="Baseball",Detroit Tigers vs New York Yankees [Server 55837]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=4b0d1d852a17f3fffdb32ce22abd55d01b6cf2e3&x-sign=260b3fc0fd846a33c0b68f5145dacf1c&x-time=1782859500
 
