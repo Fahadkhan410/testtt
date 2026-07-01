@@ -1,29 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Baseball",Chicago White Sox vs Baltimore Orioles [Server 55835]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=60787cf463fc7ea988383178367a5d45e4728241&x-sign=42826e3f3545b3a77e716ad6f94b92b7&x-time=1782864000
-
-#EXTINF:-1 group-title="Baseball",Texas Rangers vs Cleveland Guardians [Server 55836]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=60787cf463fc7ea988383178367a5d45e4728241&x-sign=95ab9cd9b87abf00677538e40f4bcc04&x-time=1782864000
-
-#EXTINF:-1 group-title="Baseball",Pittsburgh Pirates vs Philadelphia Phillies [Server 55836]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=60787cf463fc7ea988383178367a5d45e4728241&x-sign=6681c063e100b35c563809c1844ff525&x-time=1782864060
-
-#EXTINF:-1 group-title="Baseball",New York Mets vs Toronto Blue Jays [Server 55839]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=60787cf463fc7ea988383178367a5d45e4728241&x-sign=76264f390a1e6576a78a759dce05b732&x-time=1782864060
-
-#EXTINF:-1 group-title="Baseball",Detroit Tigers vs New York Yankees [Server 55838]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=60787cf463fc7ea988383178367a5d45e4728241&x-sign=88f0cda7420153b25c6637370f56bb97&x-time=1782864060
-
-#EXTINF:-1 group-title="Baseball",Washington Nationals vs Boston Red Sox [Server 55840]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=60787cf463fc7ea988383178367a5d45e4728241&x-sign=34fa4430a35dfe5cc83840efd5f90a06&x-time=1782864060
-
-#EXTINF:-1 group-title="Baseball",Cincinnati Reds vs Milwaukee Brewers [Server 55843]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55843/720p/chunks.m3u8?is_vip=false&token=60787cf463fc7ea988383178367a5d45e4728241&x-sign=b210d226517848cd02e3b7b6a93155e0&x-time=1782864060
-
-#EXTINF:-1 group-title="Baseball",San Diego Padres vs Chicago Cubs [Server 55844]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55844/720p/chunks.m3u8?is_vip=false&token=60787cf463fc7ea988383178367a5d45e4728241&x-sign=2f62bad1fc12fe19232a745be172fee4&x-time=1782864060
-
-#EXTINF:-1 group-title="Baseball",Minnesota Twins vs Houston Astros [Server 55845]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55845/720p/chunks.m3u8?is_vip=false&token=60787cf463fc7ea988383178367a5d45e4728241&x-sign=9dfe9a3c4bdd8fcbd8707a79abab0ee3&x-time=1782864060
-
